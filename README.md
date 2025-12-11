@@ -1,4 +1,5 @@
 # Projet Monitor
 
-## Fonctionnalités
+## FonctionnalitÃ©s
 - Surveillance CPU
+- Surveillance RAM
